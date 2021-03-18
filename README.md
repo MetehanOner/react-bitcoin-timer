@@ -1,3 +1,13 @@
+      {data.map((datas) => (
+
+        {return ()}
+
+      //<div className="bitcoin-prices">{datas.p}</div>)
+      
+      )
+      }
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
